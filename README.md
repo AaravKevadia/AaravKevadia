@@ -1,4 +1,4 @@
-#Aarav Kevadia
+Aarav Kevadia
 
 > I started to code in 6th grade. I learned JavaScript and HTML, but I haven't coded since.
 > My reasons for taking this class are that I was to re-learn how to code and explore other languages.
